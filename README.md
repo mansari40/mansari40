@@ -6,12 +6,11 @@
 
 ## About Me
 
-- 🎓 Passionate about Data Science, Machine Learning & Deep Learning  
+- 🎓 Passionate about Data Science, Machine Learning, Deep Learning & AI 
 - 🔭 Currently working on:
   - 📊 Couple of Projects
-- 🌱 Currently learning:
-  - Deep Learning with TensorFlow & PyTorch
-  - NLP and Text Analytics  
+- 🌱 Currently Exploring:
+  - Agentic AI 
 - 💡 Goal: Build intelligent and insightful data solutions that solve real-world problems
 
 ---
